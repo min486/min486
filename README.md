@@ -2,7 +2,7 @@ Hi there 👋 \
 I want to become an android developer \
 🌱 I will plant grass regularly 🌱
 
-
+![jerry](README.assets/jerry.gif)
 
 <!--
 **min486/min486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
