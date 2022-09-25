@@ -1,8 +1,24 @@
-Hi there 👋 \
-I want to become an android developer \
-🌱 I will plant grass regularly 🌱
+```
+🌱 I'm planting grass regularly 🌱
+```
 
 ![jerry](README.assets/jerry.gif)
+
+## 👨‍💻 Languages and Tools
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+</div>
+
+
+
+
+<!-- 
+I want to become an android developer \ 
+-->
 
 <!--
 **min486/min486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
