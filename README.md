@@ -2,8 +2,9 @@
 🌱 I'm planting grass regularly 🌱
 ```
 <p align="center">
-	<img src='./README.assets/door.png'>
+	<img src='./README.assets/door.jpg'>
 </p>
+
 
 
 
