@@ -1,13 +1,15 @@
-```
-🌱 I'm planting grass regularly 🌱
-```
 <p align="center">
 	<img src='./README.assets/welcome.gif'>
 </p>
+```
+🌱 I'm planting grass regularly 🌱
+```
+
 ## 👨🏻‍💻 Sungmin Jang
 ### Android & Software Developer
 ### You can contact me
 📧 Email : smh92333@gmail.com
+
 ## 🛠️ Languages and Tools
 <div align="center">
 <br>
