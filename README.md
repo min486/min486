@@ -2,14 +2,13 @@
 🌱 I'm planting grass regularly 🌱
 ```
 <p align="center">
-	<img src='./README.assets/door.jpg'>
+	<img src='./README.assets/welcome.gif'>
 </p>
-
-
-
-
-
-## 👨‍💻 Languages and Tools
+## 👨🏻‍💻 Sungmin Jang
+### Android & Software Developer
+### You can contact me
+📧 Email : smh92333@gmail.com
+## 🛠️ Languages and Tools
 <div align="center">
 <br>
 <p dir="auto">
@@ -25,7 +24,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </p>
 <p dir="auto">
-  <img src="https://img.shields.io/badge/Android studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
