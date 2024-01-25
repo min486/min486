@@ -1,6 +1,7 @@
 <p align="center">
 	<img src='./README.assets/welcome.gif'>
 </p>
+
 ```
 🌱 I'm planting grass regularly 🌱
 ```
